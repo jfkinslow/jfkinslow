@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 - 📫 How to reach me:
-  - <img src="/discord-logo.svg" alt="discord logo" width="32"/>
+  - <img src="/discord-logo.svg" alt="discord logo" width="32" color="white"/>
 
 <!--
 **jfkinslow/jfkinslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
